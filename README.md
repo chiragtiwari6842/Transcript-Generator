@@ -2,6 +2,8 @@
 
 This Flask-based web application allows users to upload video files, extracts the audio from the video, and generates a text transcription using Google's Speech Recognition API.
 
+You can access the web app at this [link] (https://transcript-generator.onrender.com/)
+
 ## Features
 - Upload videos in `.mp4`, `.avi`, or `.mov` formats.
 - Extracts audio from the uploaded video.
